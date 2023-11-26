@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+ <channel>  
+	<title>Prodaja ogreva</title>
+	<link></link>
+	<description>Sve o Zagorac.doo</description>
+	<item>
+	    <title>Drva-Prodaja ogreva</title>
+	    <link></link>
+	    <description>Sve o drvima!</description>
+	</item>
+	<item>
+	    <title>Ugalj-Prodaja ogreva</title>
+	    <link></link>
+	    <description>Sve o uglju!</description>
+	</item>
+	<item>
+	    <title>Pelet-Prodaja ogreva</title>
+	    <link></link>
+	    <description>Sve o peletu!</description>
+	</item>
+	<item>
+	    <title>Kontakt-Prodaja ogreva</title>
+	    <link></link>
+	    <description>Kontakt</description>
+	</item>
+	<item>
+	    <title>O autoru-Prodaja ogreva</title>
+	    <link></link>
+	    <description>O autoru</description>
+	</item>
+  </channel>
+</rss>
